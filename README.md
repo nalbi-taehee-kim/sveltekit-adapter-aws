@@ -1,6 +1,7 @@
 # SvelteKit Adapter AWS
 
 This project contains a SvelteKit adapter to deploy SvelteKit to AWS using AWS-CDK.
+- Fork of https://github.com/MikeBild/sveltekit-adapter-aws to solve some issues with the original package
 
 ## How to use?
 

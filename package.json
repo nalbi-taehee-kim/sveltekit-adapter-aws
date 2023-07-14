@@ -1,5 +1,5 @@
 {
-  "name": "sveltekit-adapter-aws",
+  "name": "@fiteenmania/sveltekit-adapter-aws",
   "description": "SvelteKit to deploy your project using AWS CDK.",
   "repository": {
     "type": "git",
@@ -16,7 +16,6 @@
     "aws",
     "cdk"
   ],
-  "author": "mike.bild@gmail.com",
   "version": "4.5.1",
   "main": "./index.js",
   "types": "./index.d.ts",
